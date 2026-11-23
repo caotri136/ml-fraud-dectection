@@ -28,7 +28,6 @@ Thumbs.db
 *.pkl
 *.joblib
 *.h5
-reports/figures/*.png
 !reports/figures/.gitkeep
 
 # ===== Credentials =====
